@@ -1,0 +1,54 @@
+body{
+             font-family: Arial, sans-serif;
+             background-color: #f4f4f9;
+             color: #333;
+
+        }
+        header{
+            background-color: #253858;
+            color:white;
+            text-align: center;
+            padding: 25px;
+        }
+        nav{
+            text-align: center;
+            background-color: #172b4d;
+            padding: 12px;
+
+        }
+        nav a{
+            color: white;
+            margin: 15px;
+            font-weight: bold;
+        }
+        section{
+            background-color: wheat;
+            margin: 20px;
+            padding: 25px;
+            width:85%;
+
+        }
+        h2{
+            color:#253858;
+            margin-bottom: 10px;
+        }
+        ul{
+            margin-left: 25px;
+        }
+        .project{
+            background-color: #eaf0ff;
+            padding:15px;
+            margin-top: 10px;
+
+        }
+        .contact{
+            color: #253858;
+        }
+        footer{
+            background-color: #253858;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 25px;
+        }
+    
